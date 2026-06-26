@@ -238,6 +238,7 @@
 | [Tool.lu](https://tool.lu) | 50+ | 开发/设计/转换/加密全覆盖 | ✅ 部分本地 |
 | [ToolFk](https://toolfk.com) | 30+ | 程序员专用工具箱 | ✅ 多数本地 |
 | [BeJSON](https://bejson.com) | 100+ | 国内老牌 JSON 工具站 | ⚠️ 部分上传 |
+| [计算器3000](https://jsq3000.com) | 100+ | 房贷/个税/工资/车贷/复利/BMI 等国内本地化计算器 | ✅ 浏览器打开即用 |
 | [Atoolbox](https://atoolbox.net) | 40+ | 中文开发者工具箱 | ✅ 多数本地 |
 | [IT-Tools](https://it-tools.tech) | 30+ | 开源自部署工具箱 | ✅ 可自部署 |
 | [DevUtils](https://devutils.com) | 20+ | macOS 原生应用 | ✅ 完全本地 |
