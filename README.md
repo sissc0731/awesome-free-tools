@@ -242,6 +242,7 @@
 | [IT-Tools](https://it-tools.tech) | 30+ | 开源自部署工具箱 | ✅ 可自部署 |
 | [DevUtils](https://devutils.com) | 20+ | macOS 原生应用 | ✅ 完全本地 |
 | [He3](https://he3.app) | 200+ | 客户端工具箱 | ✅ 完全本地 |
+| [ToolBox Pro](https://dingpeng29.github.io/) | 21+ | PDF处理、图片压缩、二维码解码、密码/UUID生成、时间戳转换、YAML/JSON/SQL格式化、Cron表达式、日期计算器、URL解析等。纯浏览器端运行，无需注册，数据不上传。开源。 | ✅ 完全免费 |
 
 ---
 
