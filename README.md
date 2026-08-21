@@ -84,6 +84,7 @@
 | [Draw.io](https://draw.io) | 流程图/架构图 | 🆓 完全免费 |
 | [Mermaid Live](https://mermaid.live) | 代码生成图表 | 🆓 完全免费 |
 | [Eraser.io](https://eraser.io) | 技术图表/架构图 | 🆓 免费层 |
+| [Codex Theme Builder](https://codextheme.tools) | 免费 OpenAI Codex 浏览器主题构建器，实时预览和 CSS token 导出 | 🆓 完全免费 |
 
 ## 🤖 AI 工具
 
@@ -137,6 +138,7 @@
 | [BgRemover](https://bgremover.ai) | AI 去背景 | 🆓 免费层 |
 | [Upscale.media](https://upscale.media) | AI 图片放大 | 🆓 免费层 |
 | [SVGOMG](https://jakearchibald.github.io/svgomg) | SVG 优化压缩 | 🆓 完全免费 |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | 将图片转换为钩针图样的免费工具 | 🆓 完全免费 |
 
 ## 📄 文档 & PDF
 
@@ -184,6 +186,9 @@
 | [Unit Converters](https://unitconverters.net) | 单位换算 | 🆓 完全免费 |
 | [Currency Converter](https://xe.com/currencyconverter) | 汇率换算 | 🆓 完全免费 |
 | [Wolfram Alpha](https://wolframalpha.com) | 计算知识引擎 | 🆓 免费层 |
+| [WattsCalc](https://wattscalc.com) | 家电功耗与电费免费计算器 | 🆓 完全免费 |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | 按面积/单价估算割草费用 | 🆓 完全免费 |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | 按针数/面料/人工估算刺绣报价 | 🆓 完全免费 |
 
 ## 🌐 网络工具
 
@@ -227,6 +232,8 @@
 | [Raycast](https://raycast.com) | Mac 效率启动器 | 🆓 免费层 |
 | [uTools](https://u.tools) | Windows/Mac 效率工具 | 🆓 免费层 |
 | [ShareX](https://getsharex.com) | Windows 截图/录屏 | 🆓 完全免费 |
+| [SkyCOTL Tools](https://skycotl.tools) | Sky 光遇免费攻略与计算器 | 🆓 完全免费 |
+| [Pressure Washer Fix](https://pressurewasherfix.com) | 高压清洗机常见故障免费排查指南 | 🆓 完全免费 |
 
 ## 📦 一站式工具箱
 
