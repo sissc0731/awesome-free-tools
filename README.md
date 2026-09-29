@@ -161,6 +161,7 @@
 | [Online-Convert](https://online-convert.com) | 多媒体转换 | 🆓 免费层 |
 | [FFmpeg Online](https://ffmpeg-online.com) | 音视频转换 | 🆓 免费层 |
 | [FreeConvert](https://freeconvert.com) | 全能转换 | 🆓 免费层 |
+| [File Converter](https://fileontap.com/) | 浏览器本地图片/PDF 转换压缩（HEIC/WebP/PNG/JPG，不上传） | 🆓 完全免费 |
 
 ## 🔐 编码 & 加密
 
