@@ -106,6 +106,7 @@
 | [Suno](https://suno.ai) | AI 音乐生成 | 🆓 免费层 |
 | [NotebookLM](https://notebooklm.google.com) | AI 笔记研究 | 🆓 完全免费 |
 | [Otter.ai](https://otter.ai) | AI 会议记录 | 🆓 免费层 |
+| [QuietTake Noise Remover](https://noiseremover.site/) | 浏览器本地 RNNoise 语音降噪，支持原音与处理结果对比及 48 kHz、16-bit WAV 导出；无需注册或上传音频，每个文件限 50 MB 且不超过五分钟 | 🆓 完全免费 |
 | [Gamma](https://gamma.app) | AI PPT 生成 | 🆓 免费层 |
 
 ## 📝 文本 & 写作
