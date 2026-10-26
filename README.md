@@ -103,6 +103,9 @@
 | [Midjourney](https://midjourney.com) | AI 图片生成 | 🆓 有限免费 |
 | [Stable Diffusion](https://stability.ai) | 开源 AI 图片生成 | 🆓 完全免费 |
 | [Leonardo.ai](https://leonardo.ai) | AI 图片生成 | 🆓 免费层 |
+| [PromptImage](https://promptimage.cloud) | 免费 AI 图片/视频工作室与提示词库 | 🆓 免费层 |
+| [TeslaWraps](https://teslawraps.design) | 浏览器端 Tesla 车衣设计，核心编辑与 PNG 导出免费 | 🆓 完全免费 |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | 独立 Grok Imagine 文生/图生视频（非 xAI 官方） | 🆓 试用积分 |
 | [Suno](https://suno.ai) | AI 音乐生成 | 🆓 免费层 |
 | [NotebookLM](https://notebooklm.google.com) | AI 笔记研究 | 🆓 完全免费 |
 | [Otter.ai](https://otter.ai) | AI 会议记录 | 🆓 免费层 |
