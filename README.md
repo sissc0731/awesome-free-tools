@@ -127,6 +127,7 @@
 
 | 工具 | 说明 | 免费程度 |
 |------|------|----------|
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | 浏览器本地图片压缩/转换（HEIC/WebP/AVIF，目标体积） | 🆓 完全免费 |
 | [TinyPNG](https://tinypng.com) | 智能 PNG/JPEG 压缩 | 🆓 免费层 |
 | [Squoosh](https://squoosh.app) | Google 图片压缩 | 🆓 完全免费 |
 | [Photopea](https://photopea.com) | 在线版 Photoshop | 🆓 免费层(广告) |
