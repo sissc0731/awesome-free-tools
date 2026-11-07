@@ -137,6 +137,7 @@
 | [BgRemover](https://bgremover.ai) | AI 去背景 | 🆓 免费层 |
 | [Upscale.media](https://upscale.media) | AI 图片放大 | 🆓 免费层 |
 | [SVGOMG](https://jakearchibald.github.io/svgomg) | SVG 优化压缩 | 🆓 完全免费 |
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | 图片转 ASCII 字符画，支持 TXT 和 PNG 导出，无需注册 | 🆓 完全免费 |
 
 ## 📄 文档 & PDF
 
