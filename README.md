@@ -122,6 +122,7 @@
 | [Diffchecker](https://diffchecker.com) | 文本差异对比 | 🆓 完全免费 |
 | [WordCounter](https://wordcounter.net) | 字数统计 | 🆓 完全免费 |
 | [CJK Fonts](https://fonts.google.com) | Google 字体库 | 🆓 完全免费 |
+| [Cursive Generation](https://cursive-generation.com/cursive-generator) | 草书字体预览；复制保留普通文本 | 🆓 生成器免费，字体及练习册另有付费产品 |
 
 ## 🖼 图片处理
 
