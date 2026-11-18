@@ -42,6 +42,7 @@
 | 工具 | 说明 | 免费程度 |
 |------|------|----------|
 | [JSON Formatter](https://jsonformatter.org) | JSON 格式化/校验/压缩 | 🆓 完全免费 |
+| [BestJSON](https://bestjson.com/) | 浏览器本地 JSON 格式化、校验、修复预览与结构比较 | 🆓 完全免费 |
 | [JSON Crack](https://jsoncrack.com) | JSON 可视化树状图 | 🆓 免费层 |
 | [Transform Tools](https://transform.tools) | JSX↔JSON↔TS↔GraphQL 互转 | 🆓 完全免费 |
 | [QuickType](https://quicktype.io) | JSON → 各语言类型定义 | 🆓 完全免费 |
