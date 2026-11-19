@@ -144,6 +144,7 @@
 |------|------|----------|
 | [ILovePDF](https://ilovepdf.com) | PDF 合并/拆分/转换 | 🆓 免费层 |
 | [SmallPDF](https://smallpdf.com) | PDF 处理套装 | 🆓 2个/天 |
+| [Gingertool PDF 合并](https://gingertool.com/en/pdf/merge-pdf/) | 在浏览器本地合并多份 PDF，无需上传或注册 | 🆓 完全免费 |
 | [PDF24](https://tools.pdf24.org) | 免费 PDF 全套 | 🆓 完全免费 |
 | [PDF Escape](https://pdfescape.com) | 在线 PDF 编辑 | 🆓 免费层 |
 | [Google Docs](https://docs.google.com) | 在线文档 | 🆓 完全免费 |
