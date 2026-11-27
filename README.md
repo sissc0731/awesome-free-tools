@@ -84,6 +84,7 @@
 | [Draw.io](https://draw.io) | 流程图/架构图 | 🆓 完全免费 |
 | [Mermaid Live](https://mermaid.live) | 代码生成图表 | 🆓 完全免费 |
 | [Eraser.io](https://eraser.io) | 技术图表/架构图 | 🆓 免费层 |
+| [StagePeek](https://stagepeek.live/zh-CN/) | 201 座演唱会/体育场馆 3D 视野预览 | 🆓 免费层 |
 
 ## 🤖 AI 工具
 
